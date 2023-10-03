@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LHamish
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning CS50 python and AI
 - 💞️ I’m looking to collaborate on how to code
 - 📫 How to reach me, through email at this stage as new here on Github!
